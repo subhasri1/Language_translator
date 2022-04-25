@@ -11,6 +11,7 @@ int main(char argc,char *argv[])
 	
 	
 	if(argc==1)
+
 	{
 			     int f = 0; // 0 1 2
     	while(1)
